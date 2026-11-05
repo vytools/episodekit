@@ -1,0 +1,4 @@
+.hg
+__pycache__
+Dockerfile
+.dockerignore
