@@ -1,7 +1,6 @@
 #!/bin/bash
 set -euo pipefail
 cd "$(dirname "$0")"
-cd episodekit
 
 function clean {
   rm -rf dist build .eggs .pytest_cache
